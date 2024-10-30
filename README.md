@@ -7,7 +7,6 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Contact](#contact)
 
 ## About
