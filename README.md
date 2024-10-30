@@ -19,15 +19,13 @@ This website serves as a digital resume and portfolio. It's designed to offer a 
 - **Responsive Design:** Optimized for all device sizes, from mobile to desktop.
 - **Project Showcase:** Visual gallery of my projects with descriptions, tech stacks, and links.
 - **Skills and Expertise:** Overview of my key skills and proficiencies.
-- **Resume Download:** Option to download my resume in PDF format.
 - **Contact Form:** Simple form to reach out directly from the website.
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (or frameworks like React, if used)
-- **Backend (Optional):** Node.js, Express (if applicable)
-- **Deployment:** Vercel, Netlify, GitHub Pages, or another hosting provider
-- **Additional Tools:** e.g., animations using CSS or libraries, analytics for traffic
+- **Frontend:** HTML, CSS, JavaScript
+- **Deployment:** GitHub Pages
+- **Additional Tools:** slider animation using CSS
 
 ## Contact
 
