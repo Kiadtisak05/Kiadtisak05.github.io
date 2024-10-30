@@ -8,7 +8,6 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## About
@@ -30,11 +29,7 @@ This website serves as a digital resume and portfolio. It's designed to offer a 
 - **Deployment:** Vercel, Netlify, GitHub Pages, or another hosting provider
 - **Additional Tools:** e.g., animations using CSS or libraries, analytics for traffic
 
-## Getting Started
+## Contact
 
-To view or edit the website locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+Feel free to reach out through the contact form on the website or connect via:
+- **Email:** [kiadtisakpreechanon.com](mailto:kiadtisakpreechanon.com)
