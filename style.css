@@ -199,7 +199,7 @@ span {
 }
 
 .about-img img {
-    width: 90%;
+    width: auto;
     border-radius: 50%;
     border: .2rem solid var(--main-color);
 }
