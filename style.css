@@ -641,8 +641,8 @@ ul.skill li.skill-icon {
         flex-direction: column-reverse;
     }
 
-    .about-img {
-        width: 70%;
+    .about-img img {
+        width: 80%;
         margin-top: 4rem;
     }
 
@@ -663,6 +663,11 @@ ul.skill li.skill-icon {
     .project-container {
         grid-template-columns: 1fr;
     }
+
+    .about-img img {
+        width: 70%;
+        margin-top: 3rem;
+    }
 }
 
 @media (max-width : 450px) {
@@ -673,6 +678,11 @@ ul.skill li.skill-icon {
     .contact form .input-box .input-field input {
         width: 100%;
     }
+
+    .about-img img {
+        width: 60%;
+        margin-top: 2rem;
+    }
 }
 
 @media (max-width:364px) {
@@ -680,8 +690,9 @@ ul.skill li.skill-icon {
         width: 90vw;
     }
 
-    .about-img {
+        .about-img img {
         width: 50%;
+        margin-top: 1rem;
     }
 
     .footer {
