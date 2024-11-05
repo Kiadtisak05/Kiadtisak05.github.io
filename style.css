@@ -199,7 +199,7 @@ span {
 }
 
 .about-img img {
-    width: auto;
+    width: 90%;
     border-radius: 50%;
     border: .2rem solid var(--main-color);
 }
@@ -641,7 +641,7 @@ ul.skill li.skill-icon {
         flex-direction: column-reverse;
     }
 
-    .about img {
+    .about-img img {
         width: 70vw;
         margin-top: 4rem;
     }
@@ -681,7 +681,7 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        width: 90vw;
+        width: 50vw;
     }
 
     .footer {
