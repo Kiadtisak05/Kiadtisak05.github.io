@@ -641,7 +641,7 @@ ul.skill li.skill-icon {
         flex-direction: column-reverse;
     }
 
-    .about-img img {
+    .about-img {
         width: 70%;
         margin-top: 4rem;
     }
@@ -680,7 +680,7 @@ ul.skill li.skill-icon {
         width: 90vw;
     }
 
-    .about-img img {
+    .about-img {
         width: 50%;
     }
 
