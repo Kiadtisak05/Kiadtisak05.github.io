@@ -646,12 +646,6 @@ ul.skill li.skill-icon {
         margin-top: 4rem;
     }
 
-    .about-img .circle-spin {
-    top: 40%;
-    transform: translate(-50%,-50%) rotate(0);
-    width: 90%;
-    height: 90%;
-
     .roadmap h2 {
         margin-bottom: 3rem;
     } 
