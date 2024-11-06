@@ -395,10 +395,10 @@ ul.skill li.skill-icon {
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--main-color);
     overflow: hidden;
-    display: inline-block; /* เพื่อให้ขนาดกล่องปรับตามเนื้อหา */
-    max-width: 100%; /* เพิ่ม max-width เพื่อป้องกันการขยายเกินหน้าจอ */
-    padding: 1rem; /* สามารถเพิ่ม padding เพื่อให้มีระยะห่างจากขอบ */
-    word-wrap: break-word; /* ช่วยให้ข้อความตัดบรรทัดเมื่อยาวเกินไป */
+    display: inline-block;
+    max-width: 100%;
+    padding: 1rem;
+    word-wrap: break-word;
 }
 
 .project-box img {
@@ -642,7 +642,7 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        width: 80%;
+        min-width: 60%;
         margin-top: 4rem;
     }
 
@@ -673,21 +673,11 @@ ul.skill li.skill-icon {
     .contact form .input-box .input-field input {
         width: 100%;
     }
-
-    .about-img img {
-        width: 60%;
-        margin-top: 2rem;
-    }
 }
 
 @media (max-width:364px) {
     .home-img img {
         width: 90vw;
-    }
-
-    .about-img img {
-        width: 50%;
-        margin-top: 1rem;
     }
 
     .footer {
