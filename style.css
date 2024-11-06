@@ -646,11 +646,6 @@ ul.skill li.skill-icon {
         margin-top: 4rem;
     }
 
-    .about-img .circle-spin {
-    width: 90%;
-    height: 90%;
-    }
-    
     .roadmap h2 {
         margin-bottom: 3rem;
     } 
@@ -673,11 +668,6 @@ ul.skill li.skill-icon {
         width: 70%;
         margin-top: 3rem;
     }
-
-    .about-img .circle-spin {
-    width: 80%;
-    height: 80%;
-    }
 }
 
 @media (max-width : 450px) {
@@ -693,11 +683,6 @@ ul.skill li.skill-icon {
         width: 60%;
         margin-top: 2rem;
     }
-
-    .about-img .circle-spin {
-    width: 70%;
-    height: 70%;
-    }
 }
 
 @media (max-width:364px) {
@@ -708,11 +693,6 @@ ul.skill li.skill-icon {
     .about-img img {
         width: 50%;
         margin-top: 1rem;
-    }
-
-    .about-img .circle-spin {
-    width: 60%;
-    height: 60%;
     }
 
     .footer {
