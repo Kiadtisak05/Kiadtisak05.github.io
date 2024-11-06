@@ -663,11 +663,6 @@ ul.skill li.skill-icon {
     .project-container {
         grid-template-columns: 1fr;
     }
-
-    .about-img img {
-        width: 70%;
-        margin-top: 3rem;
-    }
 }
 
 @media (max-width : 450px) {
