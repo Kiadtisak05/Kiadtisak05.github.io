@@ -642,7 +642,7 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        min-width: 60%;
+        min-width: 70%;
         margin-top: 4rem;
     }
 
@@ -670,6 +670,12 @@ ul.skill li.skill-icon {
         font-size: 50%;
     }
 
+    .about-img img {
+        min-width: 65%;
+        margin-top: 3rem;
+    }
+
+    
     .contact form .input-box .input-field input {
         width: 100%;
     }
@@ -680,6 +686,12 @@ ul.skill li.skill-icon {
         width: 90vw;
     }
 
+    .about-img img {
+        min-width: 60%;
+        margin-top: 2rem;
+    }
+
+    
     .footer {
         flex-direction: column-reverse;
     }
