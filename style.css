@@ -642,7 +642,7 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        min-width: 65%;
+        width: 70%;
         margin-top: 4rem;
     }
 
@@ -663,6 +663,11 @@ ul.skill li.skill-icon {
     .project-container {
         grid-template-columns: 1fr;
     }
+
+        .about-img img {
+        width: 60%;
+        margin-top: 3rem;
+    }
 }
 
 @media (max-width : 450px) {
@@ -671,7 +676,7 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        min-width: 60%;
+        width: 60%;
         margin-top: 2rem;
     }
 
@@ -687,8 +692,8 @@ ul.skill li.skill-icon {
     }
 
     .about-img img {
-        min-width: 55%;
-        margin-top: 1rem;
+        width: 55%;
+        margin-top: 4rem;
     }
 
     
