@@ -22,7 +22,7 @@ This website serves as a digital resume and portfolio. It's designed to offer a 
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript
 - **Deployment:** GitHub Pages
 - **Additional Tools:** slider animation using CSS
 
